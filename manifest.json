@@ -1,0 +1,40 @@
+{
+   "name": "Sri Lanka Covid-19 Statistics",
+   "version": "1.0",
+   "description": "Provides the current real time situation of the patients reported in Sri Lanka.",
+   "background": {
+      "scripts": [
+         "module/background.js"
+      ],
+      "persistent": false
+   },
+   "permissions": [
+      "storage",
+      "declarativeContent",
+      "notifications",
+      "alarms",
+      "https://news.google.com/news/rss/search/*"
+   ],
+   "page_action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+         "16": "icons/logo-16.png",
+         "32": "icons/logo-32.png",
+         "48": "icons/logo-48.png",
+         "128": "icons/logo-128.png"
+      },
+      "icons": {
+         "16": "icons/logo-16.png",
+         "32": "icons/logo-32.png",
+         "48": "icons/logo-48.png",
+         "128": "icons/logo-128.png"
+      }
+   },
+   "icons": {
+      "16": "icons/logo-16.png",
+      "32": "icons/logo-32.png",
+      "48": "icons/logo-48.png",
+      "128": "icons/logo-128.png"
+   },
+   "manifest_version": 2
+}
