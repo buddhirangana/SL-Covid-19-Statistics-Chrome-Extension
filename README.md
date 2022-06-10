@@ -23,5 +23,5 @@ The directory holding the manifest file can be added as an extension in develope
 
 ### Credits
 
-Special thanks goes to https://hpb.health.gov.lk/
+* Special thanks goes to https://hpb.health.gov.lk/
 
