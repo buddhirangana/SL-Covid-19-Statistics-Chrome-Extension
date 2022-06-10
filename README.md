@@ -1,1 +1,0 @@
-# SL-Covid-19-Statistics-Chrome-Extension
