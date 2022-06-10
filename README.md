@@ -12,9 +12,9 @@ Chrome extension developed for provides the current real time situation of the p
 
 ### How to Install as a Developer
 
-The directory holding the manifest file can be added as an extension in developer mode in its current state.
-
 <p align="center"><img src="images/load_extension.png"></p>
+
+The directory holding the manifest file can be added as an extension in developer mode in its current state.
 
 1.  Open the Extension Management page by navigating to  `chrome://extensions`.
     -   The Extension Management page can also be opened by clicking on the Chrome menu, hovering over  **More Tools**  then selecting  **Extensions**.
